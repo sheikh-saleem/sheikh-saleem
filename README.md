@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python development, building web applications, automation tools, and AI/ML projects.  
 - 🌱 I’m currently learning Django, FastAPI, and advanced Python concepts like async programming and design patterns.  
 - 💞️ I’m looking to collaborate on open-source Python projects, Django/FastAPI backends, and developer tools.  
-- 📫 How to reach me: sheikhsaleem.dev@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/sheikh-saleem)  
+- 📫 How to reach me: su340407@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/sheikh-saleem)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love turning coffee into clean, reusable code ☕🐍  
 
