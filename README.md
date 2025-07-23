@@ -30,7 +30,8 @@
 
 [![Email](https://img.shields.io/badge/Email-su3404077@gmail.com-blue?style=flat-square&logo=gmail)](mailto:su3404077@gmail.com)
 <!-- Add more links as needed -->
-[![Linkedin](https://www.linkedin.com/in/saleem-ullah-193a63251/)](https://github.com/sheikh-saleem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/saleem-ullah-193a63251/)
+
 
 ---
 
