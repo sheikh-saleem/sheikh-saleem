@@ -1,40 +1,75 @@
-# 👋 Hi there, I'm Saleem Sheikh!
+👋 Hi there, I'm Saleem Ullah!
+[
+[
+[
+[
+[
 
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Profile Views](https://komarev.com/ghpvc/?username=sheikh-saleem&color=blue)](https://github.com/sheikh-saleem)
+🚀 AI Automation Engineer | Lahore, Pakistan
+text
+Backend Developer → AI Agent Architect → No-Code Automation Expert
+Python | Django | LangChain | n8n | WhatsApp API | Next.js
+Currently at: Growlyze Technologies & Techworks (Oct 2025 - Present)
 
----
+🛠️ What I Build
+[
+[
+[
 
-## 🧑‍💻 About Me
+🔧 AI Agents with LangChain, LangGraph, CrewAI
 
-- 💬 **Pronouns:** He/Him
-- 🔭 **Currently building**: Scalable backend systems, APIs, and full-stack web applications using Python.
-- 🌱 **Learning:** Django, Flask, REST APIs, and advanced SQL queries for backend development.
-- 🤝 **Open to collaborate** on open-source Python projects, backend services, and Django/Flask-based web apps.
-- ⚡ **Fun fact:** I can turn coffee into clean code and bugs into features!
+🗣️ Voice AI - Real-time conversations (FastAPI + WebSockets + Groq)
 
----
+🤖 No-Code Automation - n8n workflows + WhatsApp Business API
 
-## 🚀 Skills
+⚡ Full-Stack - Next.js portfolios + MERN stack LMS
 
-- **Languages:** Python, SQL, JavaScript
-- **Frameworks:** Django, Flask, FastAPI
-- **Tools:** Git, Docker, PostgreSQL, SQLite, VS Code
-- **Other:** REST API design, Unit Testing, Agile Development
+📊 Data Pipelines - Web scraping + lead enrichment systems
 
----
+🔥 Featured Projects
+🎙️ Voice Conversation AI Agent
+text
+Real-time voice-to-AI using Python + FastAPI + WebSockets + Groq API
+Secure API authentication | Scalable architecture
+[
 
-## 📫 Connect with Me
+📚 LMS (Learning Management System)
+text
+Complete MERN stack solution | User auth | Course management | Real-time tracking
+REST APIs | MongoDB | Responsive React UI
+🎯 AI Voice Summarizer
+text
+End-to-end voice → text → summary pipeline
+Groq API | MCP | FastAPI | Real-time audio capture
+🏆 Work Experience
+Company	Role	Tech Stack	Duration
+Growlyze Technologies	AI Automation Engineer	LangChain, n8n, WhatsApp API	Present
+Techworks	Software Engineer Intern	LangChain, CrewAI, WebSockets	Oct 2025-Present
+TECHNOLOGIUM.co.uk	Database Developer Intern	MySQL, PostgreSQL	May-Aug 2023
+Engineered AI agents that delivered 3x workflow efficiency gains
 
-[![Email](https://img.shields.io/badge/Email-su3404077@gmail.com-blue?style=flat-square&logo=gmail)](mailto:su3404077@gmail.com)
-<!-- Add more links as needed -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/saleem-ullah-193a63251/)
+💻 Tech Stack
+python
+# Core Backend
+Python, Django, Flask, FastAPI
+LangChain, LangGraph, CrewAI
 
+# Frontend
+Next.js 14, React, Tailwind CSS, Framer Motion
 
----
+# Automation
+n8n, WhatsApp Business API, Browse AI, Make.com
 
-## 📈 GitHub Stats
+# DevOps
+Git, Docker, Vercel, REST APIs, WebSockets
+📫 Let's Connect!
+[
+[
+[
+[
 
-![Sheikh Saleem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sheikh-saleem&show_icons=true&theme=radical)
+text
+💼 Open for: AI Automation projects | Backend development | Full-stack gigs
+📍 Based in: Lahore, Pakistan
+🕐 Available for: Freelance & Full-time opportunities
+"Turning coffee into AI agents that automate the future" ☕→🤖
